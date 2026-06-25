@@ -1,2 +1,2 @@
-# c-beginer-programming
--> mastering tiny topics
+# c-programming basics
+these are programs I done to master each topics
