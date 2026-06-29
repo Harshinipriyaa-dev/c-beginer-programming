@@ -2,7 +2,7 @@
 
 Deep-diving into the fundamentals of low-level programming. This repository holds procedural programming architectures, pointer basics, and structural console logic written in pure C.
 
-## 💻 Featured Simulator
+## 💻 Project Stack
 
 ### 🏦 Digital Passbook Simulator
 A terminal-based banking emulator that simulates standard passbook management. 
